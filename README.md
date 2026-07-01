@@ -110,7 +110,8 @@ Light Value: 3150
 Status: BRIGHT
 LED: OFF
 ```
-
+## 🔗 Wokwi Simulation
+https://wokwi.com/projects/468368510217533441
 ---
 
 ## 👨‍💻 Author
